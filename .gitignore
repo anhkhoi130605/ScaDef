@@ -1,8 +1,4 @@
-dataset/
-*.wav
-.venv/
-.env
-.vs/
-__pycache__/
-*.pyc
-Data/Audio/
+Secret/.env
+.venv
+Data/Audio
+dataset/audio.wav

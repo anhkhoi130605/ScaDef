@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Resconnect-References\\ChiFraud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\models\\FastText.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\FastText.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\models\\TextCNN.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\TextCNN.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\models\\pinyin_embedding.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\pinyin_embedding.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\models\\glyph_embedding.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\glyph_embedding.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\models\\Chinese_Bert.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:models\\Chinese_Bert.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\dataset\\ChiFraud_t2023.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dataset\\ChiFraud_t2023.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\dataset\\ChiFraud_train.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dataset\\ChiFraud_train.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Resconnect-References\\ChiFraud\\utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextCNN.py",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\models\\TextCNN.py",
+              "RelativeDocumentMoniker": "models\\TextCNN.py",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\models\\TextCNN.py",
+              "RelativeToolTip": "models\\TextCNN.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T15:20:03.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pinyin_embedding.py",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\models\\pinyin_embedding.py",
+              "RelativeDocumentMoniker": "models\\pinyin_embedding.py",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\models\\pinyin_embedding.py",
+              "RelativeToolTip": "models\\pinyin_embedding.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T15:20:00.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "glyph_embedding.py",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\models\\glyph_embedding.py",
+              "RelativeDocumentMoniker": "models\\glyph_embedding.py",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\models\\glyph_embedding.py",
+              "RelativeToolTip": "models\\glyph_embedding.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T15:19:55.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastText.py",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\models\\FastText.py",
+              "RelativeDocumentMoniker": "models\\FastText.py",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\models\\FastText.py",
+              "RelativeToolTip": "models\\FastText.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T15:19:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Chinese_Bert.py",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\models\\Chinese_Bert.py",
+              "RelativeDocumentMoniker": "models\\Chinese_Bert.py",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\models\\Chinese_Bert.py",
+              "RelativeToolTip": "models\\Chinese_Bert.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T15:19:51.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChiFraud_t2023.csv",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\dataset\\ChiFraud_t2023.csv",
+              "RelativeDocumentMoniker": "dataset\\ChiFraud_t2023.csv",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\dataset\\ChiFraud_t2023.csv",
+              "RelativeToolTip": "dataset\\ChiFraud_t2023.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-13T15:19:46.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiFraud_train.csv",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\dataset\\ChiFraud_train.csv",
+              "RelativeDocumentMoniker": "dataset\\ChiFraud_train.csv",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\dataset\\ChiFraud_train.csv",
+              "RelativeToolTip": "dataset\\ChiFraud_train.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-04-13T15:19:41.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "utils.py",
+              "DocumentMoniker": "D:\\Resconnect-References\\ChiFraud\\utils.py",
+              "RelativeDocumentMoniker": "utils.py",
+              "ToolTip": "D:\\Resconnect-References\\ChiFraud\\utils.py",
+              "RelativeToolTip": "utils.py",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T15:18:56.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
