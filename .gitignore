@@ -2,3 +2,5 @@ Secret/.env
 .venv
 Data/Audio
 dataset/audio.wav
+.vs
+dataset/ConnectDataBase.py
